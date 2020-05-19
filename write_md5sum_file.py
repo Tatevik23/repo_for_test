@@ -1,3 +1,4 @@
+# Script to write .csv file updates to the Confluence.
 #!/usr/bin/env python
 import sys
 import os
